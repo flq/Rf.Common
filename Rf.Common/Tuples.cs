@@ -8,7 +8,7 @@ namespace Rf.Common
   /// works as opposed to creating a new instance where you need to specify
   /// the types
   /// </summary>
-  public static class TupleCreator
+  public static class Tuple
   {
     /// <summary>
     /// Create a value-pair based on the passed in arguments. You will usually not need to specify
