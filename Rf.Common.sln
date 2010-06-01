@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rf.Common", "Rf.Common\Rf.Common.csproj", "{E8D12CEA-6D80-4AC9-9E96-6EC3ADE32B3D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rf.Common.Tests", "Rf.Common.Tests\Rf.Common.Tests.csproj", "{2E030E55-8988-42B3-8D4E-7B589D83771E}"

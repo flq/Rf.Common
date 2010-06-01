@@ -1,6 +1,6 @@
 using System;
 
-namespace BI.CPD3.Common
+namespace Rf.Common
 {
   /// <summary>
   /// Event args that generically allow to transport one safely typed object
